@@ -6,15 +6,11 @@
 ```sudo pip3 install psutil```
 
 Here are a few examples of the scroipts contained and their outputs :
-
-![image](https://github.com/nylar357/psutil_scripts/assets/37067686/8c261b69-eb94-45a9-992c-87e1913862fc)
-
-
-
-
-
+This is ```disk_usage.py``` and can be used to monitor your disk free & disk used spaces.   
 
 ![image](https://github.com/nylar357/psutil_scripts/assets/37067686/e7afa485-dd90-4384-a577-e47ffb02617b)
+
+> This is the single output of the script.
 
 ![image](https://github.com/nylar357/psutil_scripts/assets/37067686/ef9dbda8-95d6-4de3-9c83-c8c3fa7bf212)
 
@@ -22,10 +18,12 @@ Here are a few examples of the scroipts contained and their outputs :
 
 
 
-
-
-
+This is ```iotop.py``` which report active disk io
 ![image](https://github.com/nylar357/psutil_scripts/assets/37067686/b02b1cf6-90ed-45d2-a99d-04fb8fa4254c)
+
+
+> looping script that will show you in real time the process' which are activly using your disk and will report the speed at which the applications read and write.  So using these two in componation iwth eash othewr would be extremely useful!
+
 
 
 ![image](https://github.com/nylar357/psutil_scripts/assets/37067686/e4eb5a88-bd70-4bec-a5ce-fee23dcc479f)
