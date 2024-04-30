@@ -9,3 +9,9 @@ Here are a few examples of the scroipts contained and their outputs :
 
 ![image](https://github.com/nylar357/psutil_scripts/assets/37067686/8c261b69-eb94-45a9-992c-87e1913862fc)
 
+
+
+
+
+
+![image](https://github.com/nylar357/psutil_scripts/assets/37067686/e7afa485-dd90-4384-a577-e47ffb02617b)
