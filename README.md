@@ -1,2 +1,2 @@
-# psutil_scripts
-python scripts to use forreporting a variety of system information
+'' These are some very useful python scripts based upon psutil'' 
+
