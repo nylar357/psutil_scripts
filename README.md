@@ -12,7 +12,8 @@ This is ```disk_usage.py``` and can be used to monitor your disk free & disk use
 
 > This is the single output of the script.
 
-![image](https://github.com/nylar357/psutil_scripts/assets/37067686/ef9dbda8-95d6-4de3-9c83-c8c3fa7bf212)
+![image](https://github.com/nylar357/psutil_scripts/assets/37067686/b1d38d19-6c43-40d0-9399-69e442f5ba97)
+
 
 
 
