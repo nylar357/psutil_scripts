@@ -1,12 +1,8 @@
 #!/usr/bin/env python3
 
-# Copyright (c) 2009, Giampaolo Rodola'. All rights reserved.
-# Use of this source code is governed by a BSD-style license that can be
-# found in the LICENSE file.
-
-"""A clone of top / htop.
-
-Author: Giampaolo Rodola' <g.rodola@gmail.com>
+"""by 
+"""█▄░█   █▄█   █░░   ▄▀█   █▀█
+"""█░▀█   ░█░   █▄▄   █▀█   █▀▄
 
 $ python3 scripts/top.py
  CPU0  [||||                                    ]  10.9%
